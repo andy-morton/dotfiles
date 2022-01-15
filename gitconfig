@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ammorton22@gmail.com
+	name = Andrew Morton
